@@ -1,4 +1,4 @@
-setwd('~/Desktop/case study/FarmersBusinessNetwork/reapplicationfordatascientistpositionatfarmersbusin/')
+setwd('~/Desktop/case study')
 
 source('functions.R')
 
